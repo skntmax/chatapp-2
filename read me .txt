@@ -1,3 +1,6 @@
-Login using this id or sinup on your own 
-email : skntjee@gmail.com
-pass : 95598 
+* create a database name called "chatapp"
+  import the chatapp.sql file in phpmyadmin 
+  
+* Login using this id or signup on your own 
+  email : skntjee@gmail.com
+  pass : 95598 
